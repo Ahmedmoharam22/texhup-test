@@ -1,0 +1,38 @@
+.navbar {
+  border-bottom: 2px solid #090fec;
+}
+a{
+  text-decoration: none;
+}
+.navbar-brand {
+  font-size: 32px;
+}
+.nav-item {
+  text-decoration: none;
+}
+.nav-item.active {
+  border-bottom: 2px solid #090fec;
+}
+.buttons {
+  margin-right: 20px;
+}
+.buttons .first,
+.buttons .second {
+  padding: 6px 20px;
+  font-size: 14px;
+  background-color: transparent;
+  border: 1px solid #090fec;
+  border-radius: 25px;
+  color: #090fec;
+}
+.buttons .second {
+  background-color: #090fec;
+  color: #fff;
+}
+.actions span {
+  font-size: 26px;
+  margin-right: 9px;
+}
+.actions select {
+  border: 0;
+}
